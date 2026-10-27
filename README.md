@@ -74,9 +74,12 @@ The report contains two pages:
 
 #### Page 1: Sales Performance Overview
 This page presents key sales KPIs, monthly sales trends, top-performing product categories, and sales by customer state.
+<img width="1323" height="743" alt="sales_performance_overview" src="https://github.com/user-attachments/assets/639a41ba-47c5-462d-b05d-cb00d7c4c560" />
+
 
 #### Page 2: Order and Delivery Analysis
 This page presents order counts by status, average delivery time, average delivery delay by customer state, and the overall order cancellation rate.
+<img width="1325" height="740" alt="order_delivery_analysis" src="https://github.com/user-attachments/assets/20fc6040-43f3-45d0-900f-49529db542a9" />
 
 ### SQL Analysis
 
