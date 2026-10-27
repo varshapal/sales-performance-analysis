@@ -4,10 +4,10 @@
 This project analyzes the Brazilian E-Commerce Public Dataset by Olist to evaluate sales performance, order status, and delivery performance.
 The goal is to identify top-performing product categories, understand monthly sales trends, analyze order cancellations, and evaluate delivery performance across customer states.
 
-### Tools Used
+### Tools Used:
 PostgreSQL, SQL, Power BI, and DAX
 
-### Key Metrics 
+### Key Metrics: 
 Delivered Item Sales, Delivered Orders, Average Order Value, Cancellation Rate, Average Delivery Time, and Delivery Delay.
 
 ### Business Problem
@@ -24,10 +24,11 @@ This project uses SQL and Power BI to analyze e-commerce data and identify usefu
 -   Build an interactive Power BI dashboard to communicate the findings.
 
 ### Dataset
-#### Dataset Name
+
+#### Dataset Name: 
 Brazilian E-Commerce Public Dataset by Olist
 
-#### Source 
+#### Source:
 Kaggle
 
 The dataset contains Brazilian e-commerce order information, including orders, customers, products, sellers, payments, and reviews. These data tables support analysis of sales performance, order status, and delivery performance.
@@ -80,9 +81,12 @@ This page presents order counts by status, average delivery time, average delive
 ### SQL Analysis
 
 The SQL analysis was organized into three files:
-- 01_data_quality.sql: Data quality checks and validation of the dataset.
-- 02_sales_analysis.sql: Sales KPIs, monthly sales trends, product category performance, and customer-state sales analysis.
-- 03_advanced_analysis.sql: Advanced analysis, including customer behavior, rankings, segmentation, delivery delays, and category contribution.
+- #### 01_data_quality.sql:
+  Data quality checks and validation of the dataset.
+- #### 02_sales_analysis.sql:
+  Sales KPIs, monthly sales trends, product category performance, and customer-state sales analysis.
+- #### 03_advanced_analysis.sql:
+  Advanced analysis, including customer behavior, rankings, segmentation, delivery delays, and category contribution.
 
 The SQL queries use techniques such as:
 - Aggregate functions (SUM, COUNT, AVG)
